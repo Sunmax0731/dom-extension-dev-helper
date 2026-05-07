@@ -1,0 +1,32 @@
+{
+  "pickupRank": 43,
+  "domain": "ChromeExtension",
+  "ideaNo": 10,
+  "idea": "DOM・拡張開発支援",
+  "repository": "dom-extension-dev-helper",
+  "publish": "Chrome Web Store",
+  "createdIdeaFolder": "D:/AI/ChromeExtension/created_idea_010_dom-extension-dev-helper",
+  "zipFile": "D:/AI/ChromeExtension/created_idea_010_dom-extension-dev-helper/idea_010_dom-extension-dev-helper.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "dom-extension-dev-helper",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/ChromeExtension/Design.md",
+    "D:/AI/IDEAS/ChromeExtension/Architecture.md",
+    "D:/AI/IDEAS/ChromeExtension/AGENTS.md",
+    "D:/AI/IDEAS/ChromeExtension/SKILL.md",
+    "D:/AI/ChromeExtension/AGENTS.md",
+    "D:/AI/ChromeExtension/SKILL.md"
+  ],
+  "hostInference": null
+}

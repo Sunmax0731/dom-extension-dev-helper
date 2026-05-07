@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "DOM・拡張開発支援",
+  "version": "0.1.0",
+  "description": "DOM・拡張開発支援 closed alpha extension",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
