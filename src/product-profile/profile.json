@@ -1,0 +1,19 @@
+{
+  "name": "dom-extension-dev-helper",
+  "title": "DOM・拡張開発支援",
+  "domain": "ChromeExtension",
+  "kind": "chrome-extension",
+  "host": null,
+  "field": "DOM/拡張開発",
+  "audience": "Chrome拡張開発者、Web QA担当者",
+  "workflow": "DOMセレクタ、要素の役割、イベント仮説、修正アクションを記録して検証する。",
+  "requiredFields": [
+    "selector",
+    "elementRole",
+    "issue",
+    "expectedAction"
+  ],
+  "warningField": "selectorFragile",
+  "warningMessage": "セレクタが構造依存で壊れやすい可能性があります。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}
