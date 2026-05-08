@@ -1,0 +1,11 @@
+{
+  "product": "dom-extension-dev-helper",
+  "title": "DOM・拡張開発支援",
+  "domain": "ChromeExtension",
+  "ideaNo": 10,
+  "platformType": "chrome-extension",
+  "expectedPublicTarget": "Chrome Web Store",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
